@@ -1,2 +1,2 @@
 # MyPresentationWeb
-A web application to present myself and have fun programming it
+A web application to introduce myself and have fun programming it
